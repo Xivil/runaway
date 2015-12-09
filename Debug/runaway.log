@@ -1,0 +1,14 @@
+﻿2015/12/10 1:58:41 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "c:\Users\kouhei\documents\visual studio 2013\Projects\runaway\runaway\runaway.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp SceneMgr.cpp
+         SceneMgr.cpp
+         main.cpp
+     1>c:\users\kouhei\documents\visual studio 2013\projects\runaway\runaway\main.cpp(17): error C2065: 'Key' : 定義されていない識別子です。
+     1>c:\users\kouhei\documents\visual studio 2013\projects\runaway\runaway\main.cpp(17): fatal error C1903: 直前のエラーを修復できません。コンパイルを中止します。
+         コードを生成中...
+     1>プロジェクト "c:\Users\kouhei\documents\visual studio 2013\Projects\runaway\runaway\runaway.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:01.29
